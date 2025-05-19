@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/product-list-with-cart-main-react/static/css/main.019a8619.css",
+    "main.js": "/product-list-with-cart-main-react/static/js/main.70a13c5d.js",
+    "static/media/image-brownie-desktop.jpg": "/product-list-with-cart-main-react/static/media/image-brownie-desktop.d7aa002eaa5a758791eb.jpg",
+    "static/media/image-tiramisu-desktop.jpg": "/product-list-with-cart-main-react/static/media/image-tiramisu-desktop.788532738e368d823eec.jpg",
+    "static/media/image-waffle-desktop.jpg": "/product-list-with-cart-main-react/static/media/image-waffle-desktop.d5fd10e216e40338fb44.jpg",
+    "static/media/image-creme-brulee-desktop.jpg": "/product-list-with-cart-main-react/static/media/image-creme-brulee-desktop.1226c76b5d7d92977bad.jpg",
+    "static/media/image-cake-desktop.jpg": "/product-list-with-cart-main-react/static/media/image-cake-desktop.357e853d078bca5361e0.jpg",
+    "static/media/image-baklava-desktop.jpg": "/product-list-with-cart-main-react/static/media/image-baklava-desktop.38a07881209c68374fb6.jpg",
+    "static/media/image-macaron-desktop.jpg": "/product-list-with-cart-main-react/static/media/image-macaron-desktop.a049dff5cd9efb9cbb4c.jpg",
+    "static/media/image-panna-cotta-desktop.jpg": "/product-list-with-cart-main-react/static/media/image-panna-cotta-desktop.5d3aeb4bde29011c2258.jpg",
+    "index.html": "/product-list-with-cart-main-react/index.html",
+    "main.019a8619.css.map": "/product-list-with-cart-main-react/static/css/main.019a8619.css.map",
+    "main.70a13c5d.js.map": "/product-list-with-cart-main-react/static/js/main.70a13c5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.019a8619.css",
+    "static/js/main.70a13c5d.js"
+  ]
+}
