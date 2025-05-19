@@ -1,0 +1,26 @@
+.cake {
+    position: relative; 
+    width: 300px; 
+    ;
+}
+
+.cake h4 {
+    margin-left: 60px; 
+    margin-top: 20px; 
+    font-size: 11px;
+    font-weight: 100;
+    color: gray;
+  }
+  
+  .cake h3 {
+    margin-left: 60px; 
+    font-size: smaller;
+  }
+  
+  .cake  p {
+    margin-left: 60px;
+    margin-top: 1px; 
+    color: brown;
+    font-size: 13px;
+    font-weight: 600;
+  }

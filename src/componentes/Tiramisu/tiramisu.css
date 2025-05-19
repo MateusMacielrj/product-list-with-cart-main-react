@@ -1,0 +1,26 @@
+.tiramisu{
+    position: relative; 
+    width: 300px; 
+    ;
+}
+
+.tiramisu h4 {
+    margin-left: 60px; 
+    margin-top: 20px; 
+    font-size: 11px;
+    font-weight: 100;
+    color: gray;
+  }
+  
+  .tiramisu  h3 {
+    margin-left: 60px; 
+    font-size: smaller;
+  }
+  
+  .tiramisu  p {
+    margin-left: 60px;
+    margin-top: 1px; 
+    color: brown;
+    font-size: 13px;
+    font-weight: 600;
+  }
